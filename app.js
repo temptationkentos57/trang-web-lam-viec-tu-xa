@@ -1,5 +1,5 @@
 function showAlert(message) {
-    alert(message);
+    alert('Notice: ' + message);
 }
 
 const features = {
