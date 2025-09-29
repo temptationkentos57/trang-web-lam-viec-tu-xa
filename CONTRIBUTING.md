@@ -18,4 +18,4 @@ Thực hiện các thay đổi mà bạn muốn trên nhánh của mình.
 Khi bạn đã hoàn tất thay đổi, gửi một Pull Request với mô tả chi tiết về những thay đổi của bạn.
 
 ## Liên Hệ
-Nếu bạn có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi qua email: contact@example.com.
+Nếu bạn có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi qua email: support@example.com.
